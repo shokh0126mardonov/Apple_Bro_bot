@@ -1,0 +1,1 @@
+NAME,CONTACT,LOCATION = range(3)
